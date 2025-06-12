@@ -284,7 +284,7 @@ const HomePage = () => {
                     <Col lg={8} xs={24} className="image-container">
                         <div className="image-wrapper">
                              <img 
-                                src="https://images.steamusercontent.com/ugc/798670388549562199/3982D0F4C43E2704482AA4727ED03D8CAC5360DB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" 
+                                src="https://giffiles.alphacoders.com/221/221942.gif" 
                                 alt="Avatar" 
                                 style={{ width: '100%', borderRadius: '50%' }}
                              />
