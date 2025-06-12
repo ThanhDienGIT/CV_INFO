@@ -284,9 +284,9 @@ const HomePage = () => {
                     <Col lg={8} xs={24} className="image-container">
                         <div className="image-wrapper">
                              <img 
-                                src="https://giffiles.alphacoders.com/221/221942.gif" 
+                                src="https://images.chesscomfiles.com/uploads/v1/blog/654597.176ace1c.5000x5000o.31c7a9ec4d67.gif" 
                                 alt="Avatar" 
-                                style={{ width: '100%', height: '500px', borderRadius :'5px'}}
+                                style={{ width: '100%', height: '100%', borderRadius :'100%'}}
                              />
                         </div>
                     </Col>
