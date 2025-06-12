@@ -296,11 +296,15 @@ I am a Full-Stack Developer with 2 years of experience, specializing not only in
 };
 
 const Animation = () => {
-  return (
-    <div>
-        <iframe src='https://my.spline.design/rememberallrobot-9UIuWTnhVsg8PEkN7XzJxDQi/' width={'100%'} height={700}/>
+ return (
+    <div style={{ width: '100%', height: 'calc(100vh - 64px)', overflow: 'hidden' }}>
+        <iframe 
+            src='https://my.spline.design/rememberallrobot-9UIuWTnhVsg8PEkN7XzJxDQi/' 
+            style={{ width: '100%', height: '100%', border: 'none', display: 'block' }}
+            title="Robot 3D"
+        />
     </div>
-  )
+ )
 }
 
 
