@@ -299,7 +299,7 @@ const HomePage = () => {
 const Animation = () => {
   return (
     <div>
-        <iframe src='https://app.spline.design/file/62575eb8-fd5b-42a8-b0a8-adc8a6abe9cb'/>
+        <iframe src='https://my.spline.design/genkubgreetingrobot-kBqWlcrWbK8ucWtfmwyWmmeb/' width={'100%'} height={'100%'}/>
     </div>
   )
 }
