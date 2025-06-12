@@ -296,6 +296,15 @@ const HomePage = () => {
     )
 };
 
+const Animation = () => {
+  return (
+    <div>
+        <iframe src='https://app.spline.design/file/62575eb8-fd5b-42a8-b0a8-adc8a6abe9cb'/>
+    </div>
+  )
+}
+
+
 // ===================================================================
 // --- CẤU HÌNH ROUTER VÀ BỐ CỤC CHÍNH ---
 // ===================================================================
@@ -308,6 +317,7 @@ const routesConfig = [
   { path: '/skills-map', label: 'Bản đồ tương tác', component: <SkillsChartPage />, icon: <DotChartOutlined /> },
   { path: '/particles', label: 'Hiệu ứng hạt', component: <ParticlesPage />, icon: <ExperimentOutlined /> },
   { path: '/contact', label: 'Liên hệ', component: <ContactPage />, icon: <MailOutlined /> },
+  { path: '/animation3D', label: 'Robot 3D', component: <Animation />, icon: <MailOutlined /> },
 ];
 
 const AppContent = () => {
