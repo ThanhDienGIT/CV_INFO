@@ -275,7 +275,7 @@ const HomePage = () => {
                         <Paragraph style={{fontSize: '16px', marginTop: '20px'}}>
 I am a Full-Stack Developer with 2 years of experience, specializing not only in creating complete mobile and web applications but also in project management and system deployment. I have hands-on experience in building and deploying systems to servers for client use, as well as leading a small team to gather and analyze functional requirements. With a burning passion for technology and strong UI/UX design skills, I am eager to contribute to a modern work environment and create valuable products.                        </Paragraph>
                         <Space size="large" style={{fontSize: '24px', marginTop: '20px'}}>
-                            <a href="thanhdiensett@gmail.com" target="_blank"><MailOutlined/></a>
+                            <a href="mailto:thanhdiensett@gmail.com" target="_blank"><MailOutlined/></a>
                             <a href="https://github.com/ThanhDienGIT" target="_blank"><GithubOutlined/></a>
                             <a href="https://www.facebook.com/nguyen.tran.thanh.ien/" target="_blank"><FacebookOutlined/></a>
                         </Space>
