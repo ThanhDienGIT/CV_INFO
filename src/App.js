@@ -283,7 +283,7 @@ I am a Full-Stack Developer with 2 years of experience, specializing not only in
                     <Col lg={8} xs={24} className="image-container">
                         <div className="image-wrapper">
                              <img 
-                                src="https://images.chesscomfiles.com/uploads/v1/blog/654597.176ace1c.5000x5000o.31c7a9ec4d67.gif" 
+                                src="https://inkythuatso.com/uploads/thumbnails/800/2023/03/9-anh-anime-boy-lanh-lung-trang-den-inkythuatso-01-13-51-13.jpg" 
                                 alt="Avatar" 
                                 style={{ width: '100%', height: '100%', borderRadius :'100%'}}
                              />
