@@ -273,12 +273,11 @@ const HomePage = () => {
                              </Title>
                         </div>
                         <Paragraph style={{fontSize: '16px', marginTop: '20px'}}>
-                            I am a developer with years of experience in creating complete mobile apps and websites. In addition to the ability to write code, I also have UI/UX design skills. I am eager to work in a modern environment where I can contribute with my burning passion for technology.
-                        </Paragraph>
+I am a Full-Stack Developer with 2 years of experience, specializing not only in creating complete mobile and web applications but also in project management and system deployment. I have hands-on experience in building and deploying systems to servers for client use, as well as leading a small team to gather and analyze functional requirements. With a burning passion for technology and strong UI/UX design skills, I am eager to contribute to a modern work environment and create valuable products.                        </Paragraph>
                         <Space size="large" style={{fontSize: '24px', marginTop: '20px'}}>
-                            <a href="#" target="_blank"><MailOutlined/></a>
-                            <a href="#" target="_blank"><GithubOutlined/></a>
-                            <a href="#" target="_blank"><FacebookOutlined/></a>
+                            <a href="thanhdiensett@gmail.com" target="_blank"><MailOutlined/></a>
+                            <a href="https://github.com/ThanhDienGIT" target="_blank"><GithubOutlined/></a>
+                            <a href="https://www.facebook.com/nguyen.tran.thanh.ien/" target="_blank"><FacebookOutlined/></a>
                         </Space>
                     </Col>
                     <Col lg={8} xs={24} className="image-container">
