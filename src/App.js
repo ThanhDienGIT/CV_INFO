@@ -286,7 +286,7 @@ const HomePage = () => {
                              <img 
                                 src="https://giffiles.alphacoders.com/221/221942.gif" 
                                 alt="Avatar" 
-                                style={{ width: '100%', borderRadius: '50%' }}
+                                style={{ width: '100%', height: '500px', borderRadius :'5px'}}
                              />
                         </div>
                     </Col>
