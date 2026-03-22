@@ -83,7 +83,7 @@ const hospitalTheme = {
 const portfolioData = {
   name: "Nguyễn Trần Thanh Điền",
   title: "Chuyên viên Xử Lý Dữ Liệu & Phát Triển Ứng Dụng",
-  shortTitle: "Hospital IT Application Developer",
+  shortTitle: "Full Stack Developer",
   location: "Ninh Kiều, Cần Thơ",
   dob: "13/06/2000",
   phone: "+84 973 481 549",
@@ -1633,7 +1633,7 @@ const AppShell = () => {
             </div>
             <div className="brand-text">
               <span className="brand-title">Thanh Điền</span>
-              <span className="brand-subtitle">Hospital IT Portfolio</span>
+              <span className="brand-subtitle">FULL STACK DEVELOPER</span>
             </div>
           </Link>
 
