@@ -1034,6 +1034,9 @@ const HomePage = () => (
 
             <Space wrap size={[10, 10]}>
               <span className="mini-pill">
+                <CheckCircleOutlined /> Lập trình phần mềm
+              </span>
+              <span className="mini-pill">
                 <CheckCircleOutlined /> Triển khai phần mềm
               </span>
               <span className="mini-pill">
@@ -1424,7 +1427,7 @@ const ContactPage = () => {
   const handleSubmit = (values) => {
     console.log("Contact values:", values);
     message.success(
-      "Đã ghi nhận thông tin liên hệ. Bạn chỉ cần nối form này với API gửi mail là có thể dùng thật."
+      "Đã ghi nhận thông tin liên hệ. Bạn chỉ cần nối form này với API gửi mail là có thể dùng thật.",
     );
     form.resetFields();
   };
@@ -1611,7 +1614,7 @@ const AppShell = () => {
           </Link>
         ),
       })),
-    []
+    [],
   );
 
   return (
